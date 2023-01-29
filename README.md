@@ -11,6 +11,7 @@ start project
 ### Step 3:
 write the html code.
 ## Code:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,6 +36,7 @@ write the html code.
 </center>
 </body>
 </html>
+```
 
 ## Output:
 ![m1](./images/m1.jpeg)
@@ -43,6 +45,8 @@ write the html code.
 ![m4](./images/m4.jpeg)
 ![m5](./images/m5.jpeg)
 ![m6](./images/m6.jpeg)
+
+### HTML Validator:
 ![m7](./images/m7.jpeg)
 
 ## Result:
