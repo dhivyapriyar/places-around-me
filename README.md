@@ -29,7 +29,7 @@ write the html code.
 <map name="MyCity">
 <area shape="circle" coords="" href="/static/html/ghs.html" title="Govt. Higher Secondary School">
 <area shape="rectangle" coords="490,150,870,320" href="/static/html/rto.html" title="RTO Office">
-<area shape="circle" coords="400,350,50" href="/static/html/vk.html" title="Puzhal Lake">
+<area shape="circle" coords="400,350,50" href="/static/html/vk.html" title="Villivakkam Lake">
 <area shape="circle" coords="400,200,75" href="/static/html/bus.html" title="Hi-Tech Bus Stand">
 <area shape="rectangle" coords="" href="/static/html/park.html" title="Eco-Park">
 </map>
